@@ -1,11 +1,11 @@
 # Site settings
-author: Zachary Reinke
-title: 
+author: Zach Reinke
+title: Recoding My Life
 header-img: img/home-bg.png
 email: zreinke@gmail.com
-copyright_name: Zachary Reinke
+copyright_name: Zach Reinke
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Changing careers...again!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zreinke
